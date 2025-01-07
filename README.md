@@ -1,4 +1,4 @@
-# Steganography-Based Messaging Application
+# Steganography-Tool
 
 This project implements a secure messaging application that utilizes steganography techniques to hide messages within images. By embedding secret messages in image files, the application ensures both data confidentiality and subtlety, making it ideal for secure communication.
 
@@ -96,23 +96,3 @@ This project implements a secure messaging application that utilizes steganograp
 - Incorrect keys will result in decryption failures or garbled text.
 
 ---
-
-## Future Enhancements
-
-- Support for additional image formats (e.g., BMP, TIFF).
-- Enhanced steganographic techniques to resist detection by image analysis tools.
-- Mobile application version for Android and iOS.
-
----
-
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes and push them.
-4. Open a pull request.
-
----
-
