@@ -79,13 +79,18 @@ This project implements a secure messaging application that utilizes steganograp
 
 ---
 
-## Sample Output
+## Screenshots
 
-### Before Embedding:
-![Original Image](images/original_image_example.jpg)
+### Outline  
+![Outline](Outline.png)
+### Original Image
+![Orig_img](to_be_encrypted.jpg)
+### Original Image Properties
+![Orig_img_prop](Stegano_orignal_img_properties.png)
 
-### After Embedding:
-![Steganographic Image](images/steganographic_image_example.jpg)
+### Steganography_Tool
+![steg_encode](Stegano_encoded.png)
+![steg_decode](Stegano_decoded.png)
 
 ---
 
@@ -96,3 +101,12 @@ This project implements a secure messaging application that utilizes steganograp
 - Incorrect keys will result in decryption failures or garbled text.
 
 ---
+
+
+
+### Encoded Image 
+![encoded_img](encoded_image.png)
+### Encoded Image Properties
+![encoded_img_prop](Stegano_img_encoded_properties.png)
+
+
