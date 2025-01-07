@@ -83,6 +83,10 @@ This project implements a secure messaging application that utilizes steganograp
 
 ### Outline  
 ![Outline](Outline.png)
+
+### Working  
+![Working](working.png)
+
 ### Original Image
 ![Orig_img](to_be_encrypted.jpg)
 ### Original Image Properties
@@ -91,6 +95,11 @@ This project implements a secure messaging application that utilizes steganograp
 ### Steganography_Tool
 ![steg_encode](Stegano_encoded.png)
 ![steg_decode](Stegano_decoded.png)
+
+### Encoded Image 
+![encoded_img](encoded_image.png)
+### Encoded Image Properties
+![encoded_img_prop](Stegano_img_encoded_properties.png)
 
 ---
 
@@ -104,9 +113,6 @@ This project implements a secure messaging application that utilizes steganograp
 
 
 
-### Encoded Image 
-![encoded_img](encoded_image.png)
-### Encoded Image Properties
-![encoded_img_prop](Stegano_img_encoded_properties.png)
+
 
 
